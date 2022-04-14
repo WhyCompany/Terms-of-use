@@ -1,0 +1,219 @@
+body {
+    margin: 0;
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFF;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+p {
+    margin: 0 0 0 0;
+}
+
+a {
+    text-decoration: none;
+    margin: 0 0 0 0;
+}
+
+html{-khtml-user-select:none;-webkit-user-select:none;-o-user-select:none;height:100%;width:100%;}
+
+.text_vseh_1d {
+    margin-top: 70px;
+}
+
+
+.text_vsei_opp {
+    margin-top: 42px;
+    width: 753px;
+    margin-left: 36px;
+
+}
+
+.polosa_var_vsei {
+    width: 400px;
+    height: 1px;
+    background-color: white;
+}
+
+.zag_ofr_gadret {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+
+/* ========== CONTAINER ========== */
+.conteiner {
+    width: 100%;
+    max-width: 790px;
+    margin: 0 auto;
+}
+
+/* ============ stacrr_1 ============ */
+
+.stacrr_1 {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    height: 1073px;
+    background: #000000 url(img/fon_2.png) center no-repeat;
+    background-size: cover;
+}
+
+/* =========== Vstuplenie ========= */
+
+
+
+.vstuplenie {
+    padding-top: 240px
+
+}
+
+.uslov_pol {
+    margin-bottom: 100px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+/* .vstupld {
+    max-width: 674px;
+} */
+
+.vstup_slova {
+    /* max-width: 674px; */
+    margin-left: 36px;
+    font-size: 18px;
+}
+
+.stort {
+    width: 674px;
+    height: 38px;
+}
+
+.glav_plos {
+    margin-left: 144px;
+    margin-top: 190px;
+    width: 500px;
+    height: 1px;
+    background-color: white;
+}
+
+.uhot_zapis {
+    margin-top: 190px;
+}
+
+.text_vsei_opp {
+    margin-top: 42px;
+    width: 753px;
+    margin-left: 36px;
+}
+
+.pravila_uhot_zapisi {
+
+}
+
+/* ========== stacrr_2 ========== */
+
+.stacrr_2 {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    height: 1073px;
+    background: #000000 url(img/fon_5.png) center no-repeat;
+    background-size: cover;
+}
+
+.polosa_a2 {
+    margin-top: 82px;
+}
+
+.polosa_block_a2 {
+    display: flex;
+    justify-content: center;
+}
+
+.vaha_deiatel {
+    margin-top: 187px;
+}
+
+.text_vaha_deiatel_1 {
+    margin-top: 70px;
+}
+
+.text_vaha_deiatel {
+
+}
+
+
+/* ========= stacrr_3 ======== */
+
+.stacrr_3 {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    height: 1073px;
+    background: #000000 url(img/fon_2.png) center no-repeat;
+    background-size: cover;
+}
+
+.polosa_a3 {
+    margin-top: 39px;
+}
+
+.text_okozania_uslug {
+    margin-top: 178px;
+}
+
+.polosa_a4 {
+    margin-top: 153px;
+}
+
+.text_okozania_uslug_21 {
+    width: 320px;
+    margin-top: 153px;
+}
+
+/* ======= stacrr_4 ======= */
+.stacrr_4 {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    height: 750px;
+    background: #000000 url(img/fon_3.png) center no-repeat;
+    background-size: cover;
+}
+
+.text_vaha_deiatel_264 {
+    margin-top: 0px;
+}
+
+.text_vaha_deiatel_33 {
+
+}
+
+.why_com {
+    font-family: 'Lexend Tera', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.17em;
+    font-size: 32px;
+    color: #FFF;
+    margin-left: 32px;
+}
+
+.legendary_logo {
+    display: flex;
+    align-items: center;
+    margin-top: 185px;
+}
